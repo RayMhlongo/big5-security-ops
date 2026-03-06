@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Big 5 Security Ops</string>
+    <string name="title_activity_main">Big 5 Security Ops</string>
+    <string name="package_name">za.co.big5.securityops</string>
+    <string name="custom_url_scheme">za.co.big5.securityops</string>
+</resources>
